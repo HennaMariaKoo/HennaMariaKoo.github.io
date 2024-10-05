@@ -22,7 +22,7 @@ Here's some words about the book _One Hundred Years..._.
 Search for it [Google](http:/www.google.com)
 
 You're **really, really** going to want to see this.
-[Dailykitten](https:/www.dailykitten.com)
+[Dailykitten](http:/www.dailykitten.com)
 
 #### The Latest News from [the BBC](http:/www.bbc.com/news)
 
