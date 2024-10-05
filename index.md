@@ -34,9 +34,9 @@ Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: (http:/www.zombo.com)
+[a fun place]: http:/www.zombo.com
 
-[another fun place]: (http:/www.stumbleupon.com)
+[another fun place]: http:/www.stumbleupon.com
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -46,7 +46,7 @@ Well, do I have [the website for you][another fun place]!
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
-[Orange]:(http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
+[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 I read this interesting quote the other day:
 
